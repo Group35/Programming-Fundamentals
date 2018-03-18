@@ -7,12 +7,12 @@ namespace CharacterStats
         static void Main(string[] args)
         {
 			/*We receive from the console four lines with card numbers*/
-            int first = int.Parse(Console.ReadLine());
-            int second = int.Parse(Console.ReadLine());
-            int third = int.Parse(Console.ReadLine());
-            int fourth = int.Parse(Console.ReadLine());
+            int firstDigits = int.Parse(Console.ReadLine());
+            int secondDigits = int.Parse(Console.ReadLine());
+            int thirdDigits = int.Parse(Console.ReadLine());
+            int fourthDigits = int.Parse(Console.ReadLine());
             // We print them on the console using formatting for the zeroes 
-            Console.WriteLine($"{first:d4} {second:d4} {third:d4} {fourth:d4}");
+            Console.WriteLine($"{firstDigits:d4} {secondDigits:d4} {thirdDigits:d4} {fourthDigits:d4}");
 
             
 
