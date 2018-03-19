@@ -1,5 +1,5 @@
-Problem5/Program.cs
-﻿//CONFIRMED from <LazarPanchev> and
+﻿Problem5/Program.cs
+﻿//CONFIRMED from LazarPanchev and
 ﻿//CONFIRMED from anavelcheva
 intro-and-basic-syntax/Problem5/CharacterStats.cs
 using System;
